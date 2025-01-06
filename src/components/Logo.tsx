@@ -4,7 +4,7 @@ import React from 'react';
       return (
         <div className="flex items-center space-x-2">
           <img 
-            src="https://raw.githubusercontent.com/stackblitz/stackblitz-codeflow/main/examples/cake-lounge-logo.png" 
+            src="https://cakeloungephots.pages.dev/lounge-logo-red-.png"
             alt="The Cake Lounge" 
             className="h-16 w-auto"
           />
